@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Custom Toast</string>
+    <string name="button">Click to see Toast</string>
+    <string name="text">Let contribute our \n app moudle </string>
+</resources>
